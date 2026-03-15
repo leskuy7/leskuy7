@@ -1,4 +1,4 @@
-# Merhaba, ben Yüksel 👋
+# Merhaba, ben Yüksel
 
 Full-stack web geliştirici. JavaScript ve TypeScript ile çalışıyorum; backend'den frontend'e, mobil uygulamalardan API tasarımına kadar uçtan uca projeler geliştiriyorum.
 
